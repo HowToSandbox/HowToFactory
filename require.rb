@@ -1,0 +1,14 @@
+require 'rubygems'
+require 'rake'
+require 'rspec'
+require 'json'
+require 'airborne'
+require 'json_expressions'
+require 'rest-client'
+require "net/http"
+require 'nokogiri'
+require 'httparty'
+#require_relative 'support/urlConstructor'
+require_relative 'support/config'
+require_relative 'support/common'
+#include ModuleName
